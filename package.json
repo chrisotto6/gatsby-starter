@@ -92,7 +92,7 @@
     "dotenv": "^10.0.0",
     "eslint": "^7.26.0",
     "eslint-config-google": "^0.14.0",
-    "eslint-config-prettier": "^7.2.0",
+    "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-graphql": "^4.0.0",
     "eslint-plugin-import": "^2.23.2",
     "eslint-plugin-jsx-a11y": "^6.4.1",
