@@ -72,7 +72,7 @@
     "react-instantsearch-dom": "^6.11.0",
     "react-share": "^4.4.0",
     "react-visibility-sensor": "^5.1.1",
-    "styled-jsx": "^3.3.2",
+    "styled-jsx": "^3.4.4",
     "typeface-open-sans": "^1.1.13"
   },
   "keywords": [
