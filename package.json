@@ -82,7 +82,7 @@
     "portfolio"
   ],
   "devDependencies": {
-    "@testing-library/cypress": "^7.0.4",
+    "@testing-library/cypress": "^7.0.6",
     "axe-core": "^4.2.1",
     "babel-eslint": "^10.1.0",
     "babel-jest": "^26.6.3",
