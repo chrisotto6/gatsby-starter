@@ -110,7 +110,7 @@
     "postcss-load-plugins": "^2.3.0",
     "postcss-loader": "^3.0.0",
     "postcss-media-variables": "^2.0.1",
-    "postcss-nested": "^4.2.3",
+    "postcss-nested": "^5.0.5",
     "postcss-sorting": "^6.0.0",
     "postcss-text-remove-gap": "^1.1.1",
     "postcss-utilities": "^0.8.4",
