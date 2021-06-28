@@ -114,7 +114,7 @@
     "postcss-sorting": "^6.0.0",
     "postcss-text-remove-gap": "^1.1.1",
     "postcss-utilities": "^0.8.4",
-    "prettier": "^2.3.0",
+    "prettier": "^2.3.2",
     "react-test-renderer": "^17.0.2",
     "serve": "^11.3.2",
     "start-server-and-test": "^1.12.3",
