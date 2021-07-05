@@ -90,7 +90,7 @@
     "cypress": "^6.9.1",
     "cypress-axe": "^0.12.2",
     "dotenv": "^10.0.0",
-    "eslint": "^7.26.0",
+    "eslint": "^7.30.0",
     "eslint-config-google": "^0.14.0",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-graphql": "^4.0.0",
